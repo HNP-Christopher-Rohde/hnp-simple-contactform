@@ -1,0 +1,581 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HNP - Simple Contact Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-10 01:29+0000\n"
+"PO-Revision-Date: 2023-07-10 02:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: hnp-simple_contactform-textdomain"
+
+#: hnp-simple-contactform.php:460
+msgid "---"
+msgstr "---"
+
+#: inc/options-page-wrapper.php:266
+msgid ".example-class{color: #000;}"
+msgstr ".Beispiel-Klasse {Farbe: #000;}"
+
+#. Description of the plugin
+msgid ""
+"A Simple Contactform-Plugin with Honeypot and Captcha. All what you need and "
+"not more."
+msgstr ""
+"Ein simples Kontaktformular-Plugin mit Honeypot und Captcha. Alles, was Du "
+"brauchst und nicht mehr."
+
+#: inc/options-page-wrapper.php:100
+msgid "Activate Captcha Cache Mode?"
+msgstr "Aktiviere den Captcha Cache Modus?"
+
+#: inc/options-page-wrapper.php:95
+msgid "Activate compatibility mode?"
+msgstr "Aktiviere den Kompatibilitätsmodus?"
+
+#: hnp-simple-contactform.php:170 hnp-simple-contactform.php:188
+msgid "Activated"
+msgstr "Aktiviert"
+
+#: inc/options-page-wrapper.php:85
+msgid ""
+"Add your Contact Form to the Frontend with the &#x5B;hnp_simple_contactform] "
+"shortcode."
+msgstr ""
+"Füge das Kontaktformular in das Frontend ein, mit diesem Shortcode:  &#x5B;"
+"hnp_simple_contactform]"
+
+#: inc/options-page-wrapper.php:111
+msgid "admin@website.com"
+msgstr "Admin @ Website.Com"
+
+#: hnp-simple-contactform.php:467
+msgid "An error occurred while sending the message. Please try again."
+msgstr ""
+"Beim Senden der Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es "
+"noch mal."
+
+#: inc/options-page-wrapper.php:275
+msgid "Area"
+msgstr "Fläche"
+
+#: inc/options-page-wrapper.php:218
+msgid "Background Image:"
+msgstr "Hintergrundbild:"
+
+#: inc/options-page-wrapper.php:203
+msgid "Background-Color of the Form. Default value = #f4f4f4."
+msgstr "Hintergrund-Farbe des Formulars. Standardwert = #F4F4F4."
+
+#: inc/options-page-wrapper.php:203
+msgid "Background-Color:"
+msgstr "Hintergrundfarbe:"
+
+#: inc/options-page-wrapper.php:193
+msgid "Border Size (Pixels):"
+msgstr "Rahmenbreite (Pixel):"
+
+#: inc/options-page-wrapper.php:198
+msgid "Border-Color of the Form. Default value = #CCCCCC."
+msgstr "Rand-Farbe des Formulars. Standardwert = #Cccccc."
+
+#: inc/options-page-wrapper.php:198
+msgid "Border-Color:"
+msgstr "Rahmen-Farbe:"
+
+#: inc/options-page-wrapper.php:208
+msgid "Button Background-Color:"
+msgstr "Button Hintergrund-Farbe:"
+
+#: inc/options-page-wrapper.php:291
+msgid "Captcha Container"
+msgstr "Captcha-Container"
+
+#: inc/options-page-wrapper.php:159
+msgid "Captcha Field Text:"
+msgstr "Captcha-Feldtext:"
+
+#: inc/contactform-template-1.php:34
+msgid "CAPTCHA Image"
+msgstr "Captcha-Bild"
+
+#: inc/options-page-wrapper.php:226
+msgid ""
+"Change the Design of the Frontend. This Function is not active now and "
+"coming on a later update. "
+msgstr ""
+"Ändern Sie das Design des Frontends. Diese Funktion ist jetzt nicht aktiv "
+"und kommt zu einem späteren Update."
+
+#. Author of the plugin
+msgid "Christopher Rohde"
+msgstr "Christopher Rohde"
+
+#: hnp-simple-contactform.php:486
+msgid "Coming soon"
+msgstr "Ich komme gleich."
+
+#: hnp-simple-contactform.php:207
+#, php-format
+msgid "Compatibility Mode: <span style=\"color: %s;\">%s</span>"
+msgstr "Kompatibilitätsmodus: <span style=\"color: %s;\">% s </span>"
+
+#: inc/contactform-template-1.php:52
+msgid "Contact Form powered by HNP"
+msgstr "Kontaktformular powered by Hnp"
+
+#: hnp-simple-contactform.php:452
+msgid "Contact Request:"
+msgstr "Kontaktanfrage:"
+
+#: inc/options-page-wrapper.php:276
+msgid "CSS-Class"
+msgstr "Css-Klasse"
+
+#: inc/options-page-wrapper.php:265
+msgid "Custom Style CSS:"
+msgstr "Benutzerdefinierter CSS-Stil:"
+
+#: inc/options-page-wrapper.php:263
+msgid "Custom Style:"
+msgstr "Benutzerdefinierter Stil:"
+
+#: inc/options-page-wrapper.php:226
+msgid "Design"
+msgstr "Design"
+
+#: inc/options-page-wrapper.php:228
+msgid "Design 1"
+msgstr "Design 1"
+
+#: inc/options-page-wrapper.php:234
+msgid "Design 2"
+msgstr "Design 2"
+
+#: inc/options-page-wrapper.php:223
+msgid "Design:"
+msgstr "Ausführung:"
+
+#: inc/options-page-wrapper.php:188
+msgid "Disable Border?"
+msgstr "Rahmen ausschalten?"
+
+#: inc/options-page-wrapper.php:90
+msgid "Disable Pre-Styling CSS?"
+msgstr "Pre-Styling CSS deaktivieren?"
+
+#: inc/options-page-wrapper.php:90
+msgid "Disable the pre-styling Frontend-CSS-File for the Function."
+msgstr "Deaktivieren Sie die Pre-Styling Frontend-Css-Datei für die Funktion."
+
+#: inc/options-page-wrapper.php:254
+msgid ""
+"Do you have any questions? Do you need a custom plugin or custom function "
+"for WordPress / WooCommerce? Send us an email:"
+msgstr ""
+"Haben Sie noch Fragen? Brauchen Sie ein benutzerdefiniertes Plugin oder eine "
+"benutzerdefinierte Funktion für Wordpress / Woocommerce? Senden Sie uns eine "
+"E-Mail:"
+
+#: inc/options-page-wrapper.php:139
+msgid "Email Field Text:"
+msgstr "E-Mail-Feldtext:"
+
+#: hnp-simple-contactform.php:413 inc/options-page-wrapper.php:140
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: inc/options-page-wrapper.php:134
+msgid "Enable Phone Field is required?"
+msgstr "Telefonfeld als Pflichtfeld?"
+
+#: inc/options-page-wrapper.php:154
+msgid ""
+"Enable the captcha function against spambots. Note that if you are using a "
+"cache plugin, you need to activate the cache captcha function on top."
+msgstr ""
+"Aktivieren Sie die Captcha-Funktion gegen Spambots. Beachten Sie, dass Sie "
+"bei Verwendung eines Cache-Plugins oben die Cache-Captcha-Funktion "
+"aktivieren müssen."
+
+#: inc/options-page-wrapper.php:154
+msgid "Enable the Captcha?"
+msgstr "Aktiviere das Captcha"
+
+#: inc/options-page-wrapper.php:80
+msgid "Enable the Contact Form?"
+msgstr "Das Kontaktformular aktivieren?"
+
+#: inc/options-page-wrapper.php:80
+msgid "Enable the functionality of the Contact Form."
+msgstr "Aktivieren Sie die Funktionalität des Kontaktformulars."
+
+#: inc/options-page-wrapper.php:149
+msgid ""
+"Enable the honeypot function against spambots. This function creates a "
+"hidden field that only spambots can see and fill out. As a result, spambots "
+"are detected and the email is not sent."
+msgstr ""
+"Aktivieren Sie die Honeypot-Funktion gegen Spambots. Diese Funktion erstellt "
+"ein verstecktes Feld, das nur Spambots sehen und ausfüllen können. Dadurch "
+"werden Spambots erkannt und die E-Mail nicht versendet."
+
+#: inc/options-page-wrapper.php:149
+msgid "Enable the Honeypot?"
+msgstr "Honeypot einschalten?"
+
+#: inc/options-page-wrapper.php:124
+msgid "Enable the Phone Field in the Frontend"
+msgstr "Aktiviere das Telefon-Feld für das Formular"
+
+#: inc/options-page-wrapper.php:124
+msgid "Enable the Phone Field?"
+msgstr "Telefonfeld aktivieren?"
+
+#: inc/options-page-wrapper.php:265
+msgid "Enter your custom CSS code here."
+msgstr "Geben Sie hier Ihren benutzerdefinierten CSS-Code ein."
+
+#: inc/options-page-wrapper.php:303
+msgid "Fields"
+msgstr "Felder"
+
+#: inc/options-page-wrapper.php:115
+msgid "Fields:"
+msgstr "Felder:"
+
+#: inc/options-page-wrapper.php:287
+msgid "Form"
+msgstr "Vordruck"
+
+#: hnp-simple-contactform.php:477
+msgid "Form submission failed. Please try again."
+msgstr ""
+"Die Einreichung des Formulars ist fehlgeschlagen. Bitte versuchen Sie es "
+"noch mal."
+
+#: inc/options-page-wrapper.php:234
+msgid "Function comes later."
+msgstr "Die Funktion kommt später."
+
+#: hnp-simple-contactform.php:202
+#, php-format
+msgid "Function: <span style=\"color: %s;\">%s</span> | "
+msgstr "Funktion: <span style=\"color: %s;\">%s</span> | "
+
+#: inc/options-page-wrapper.php:246 inc/options-page-wrapper.php:312
+msgid "HNP - Programming made with love in Germany."
+msgstr "Hnp - Programmierungen mit Liebe in Deutschland gemacht."
+
+#. Name of the plugin
+#: hnp-simple-contactform.php:33 hnp-simple-contactform.php:34
+msgid "HNP - Simple Contact Form"
+msgstr "HNP - Simples Kontaktformular"
+
+#: inc/options-page-wrapper.php:8
+msgid "HNP Simple Contact Form"
+msgstr "HNP Simples Kontaktformular"
+
+#. Author URI of the plugin
+msgid "https://homepage-nach-preis.de/"
+msgstr "Https: //Homepage-Nach-Preis.De/"
+
+#: inc/options-page-wrapper.php:95
+msgid ""
+"If this function is enabled, an attempt will be made to prevent caching, "
+"minification, and concatenation of the frontend script. If you encounter "
+"error messages or if a function is not working as expected, try using this "
+"mode."
+msgstr ""
+"Wenn diese Funktion aktiviert ist, wird versucht, das Caching, die "
+"Minimierung und die Verkettung des Frontend-Skripts zu verhindern. Wenn "
+"Fehlermeldungen auftreten oder eine Funktion nicht wie erwartet funktioniert,"
+" versuchen Sie es mit diesem Modus."
+
+#: inc/options-page-wrapper.php:100
+msgid ""
+"If you using a Cache-Plugin and the Captcha Function, then activate this "
+"Option."
+msgstr ""
+"Wenn Sie ein Cache-Plugin und die Captcha-Funktion nutzen, dann aktivieren "
+"Sie diese Option."
+
+#: inc/options-page-wrapper.php:218
+msgid ""
+"If you want a Background Image in the Form, then you can choice it here."
+msgstr ""
+"Wenn Sie ein Hintergrundbild im Formular wünschen, dann können Sie dies hier "
+"festlegen."
+
+#: inc/options-page-wrapper.php:213
+msgid "Input Field Background-Color:"
+msgstr "Eingabefeld Hintergrundfarbe:"
+
+#: inc/options-page-wrapper.php:213
+msgid "Input Fields Background-Color. Default value = #FFFFFF."
+msgstr "Eingabefelder Hintergrund-Farbe. Standardwert = #Ffffff."
+
+#: hnp-simple-contactform.php:474
+msgid "Invalid CAPTCHA!"
+msgstr "Ungültiges Captcha!"
+
+#: hnp-simple-contactform.php:142 hnp-simple-contactform.php:145
+msgid "Licence Activated"
+msgstr "Lizenz aktiviert"
+
+#: inc/options-page-wrapper.php:260
+msgid "Licence Code"
+msgstr "Lizenzcode"
+
+#: inc/options-page-wrapper.php:259
+msgid "Licence Key:"
+msgstr "Lizenzschlüssel:"
+
+#: hnp-simple-contactform.php:151
+msgid "Licence Not activated"
+msgstr "Lizenz nicht aktiviert"
+
+#: inc/options-page-wrapper.php:283
+msgid "Main-Container"
+msgstr "Haupt-Container"
+
+#: inc/options-page-wrapper.php:279
+msgid "Main-Container Border"
+msgstr "Rahmen Main-Container"
+
+#: inc/options-page-wrapper.php:134
+msgid "Make the Phone Field to a required Field."
+msgstr "Macht das Telefonfeld zum Pflichtfeld."
+
+#: inc/options-page-wrapper.php:144
+msgid "Message Field Text:"
+msgstr "Nachrichtenfeldtext:"
+
+#: hnp-simple-contactform.php:416 inc/options-page-wrapper.php:145
+msgid "Message:"
+msgstr "Nachricht:"
+
+#: inc/options-page-wrapper.php:119
+msgid "Name Field Text:"
+msgstr "Name Feld Text:"
+
+#: hnp-simple-contactform.php:414 inc/options-page-wrapper.php:120
+msgid "Name:"
+msgstr "Name:"
+
+#: hnp-simple-contactform.php:451
+msgid "New Contact Request from"
+msgstr "Neue Kontaktanfrage von"
+
+#: hnp-simple-contactform.php:173 hnp-simple-contactform.php:177
+#: hnp-simple-contactform.php:191 hnp-simple-contactform.php:195
+msgid "Not Activated"
+msgstr "Nicht aktiviert"
+
+#: inc/options-page-wrapper.php:18
+msgid "Option"
+msgstr "Einstellungen"
+
+#: inc/options-page-wrapper.php:22
+msgid "Other"
+msgstr "Sonstiges"
+
+#: inc/options-page-wrapper.php:129
+msgid "Phone Field Text:"
+msgstr "Telefonfeldtext:"
+
+#: hnp-simple-contactform.php:415 inc/options-page-wrapper.php:130
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: hnp-simple-contactform.php:417 inc/options-page-wrapper.php:160
+msgid "Please enter the CAPTCHA:"
+msgstr "Bitte geben Sie das Captcha ein:"
+
+#: inc/contactform-template-1.php:26
+msgid "Please leave this field empty:"
+msgstr "Bitte lassen Sie dieses Feld leer:"
+
+#: inc/options-page-wrapper.php:272
+msgid "Plugin Style:"
+msgstr "Plugin-Stil:"
+
+#: inc/options-page-wrapper.php:110
+msgid ""
+"Recipient email address. This email address is where the contact form "
+"submissions will be sent to."
+msgstr ""
+"Empfänger E-Mail-Adresse. An diese E-Mail-Adresse werden die Eingaben des "
+"Kontaktformulars gesendet."
+
+#: inc/options-page-wrapper.php:110
+msgid "Recipients Email Address"
+msgstr "Empfänger E-Mail-Adresse"
+
+#: inc/options-page-wrapper.php:295
+msgid "Refresh Button"
+msgstr "Aktualisieren Button"
+
+#: inc/options-page-wrapper.php:188
+msgid "Removes the border area around the form."
+msgstr "Entfernt den Rahmen um das Formular."
+
+#: hnp-simple-contactform.php:65 hnp-simple-contactform.php:112
+msgid "Saved"
+msgstr "Gespeichert"
+
+#: inc/options-page-wrapper.php:220
+msgid "Select Image"
+msgstr "Bild auswählen"
+
+#: inc/options-page-wrapper.php:299
+msgid "Send Button"
+msgstr "Senden Button"
+
+#: inc/options-page-wrapper.php:164
+msgid "Send Button Text:"
+msgstr "Senden Button Text:"
+
+#: hnp-simple-contactform.php:412 inc/options-page-wrapper.php:165
+msgid "Send Message"
+msgstr "Nachricht senden"
+
+#: hnp-simple-contactform.php:44
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: inc/options-page-wrapper.php:85
+msgid "Shortcode for the Frontend:"
+msgstr "Shortcode für das Formular:"
+
+#: inc/options-page-wrapper.php:238
+msgid "Show Love?"
+msgstr "Zeig Liebe?"
+
+#: inc/options-page-wrapper.php:178
+msgid "Size of Frontend Text in pixels. Default value = 16."
+msgstr "Größe des Frontend-Textes in Pixels. Standardwert = 16."
+
+#: inc/options-page-wrapper.php:193
+msgid "Size of the Border in pixels. Default value = 2."
+msgstr "Breite des Rahmens in Pixels. Standardwert = 2."
+
+#: hnp-simple-contactform.php:471
+msgid "Spam Bot Detection!"
+msgstr "Spam Bot-Erkennung!"
+
+#: inc/options-page-wrapper.php:174
+msgid "Style:"
+msgstr "Stil:"
+
+#: inc/options-page-wrapper.php:169
+msgid "Success Text:"
+msgstr "Erfolgstext:"
+
+#: inc/options-page-wrapper.php:178
+msgid "Text Font-Size (Pixels):"
+msgstr "Text Schriftgröße (Pixel):"
+
+#: inc/options-page-wrapper.php:183
+msgid "Text-Color:"
+msgstr "Textfarbe:"
+
+#: inc/options-page-wrapper.php:307
+msgid "Textarea"
+msgstr "Textbereich"
+
+#: hnp-simple-contactform.php:419 inc/options-page-wrapper.php:170
+msgid "Thank you for your message. We will get back to you shortly."
+msgstr "Danke für Ihre Nachricht. Wir melden uns in Kürze bei Ihnen."
+
+#: inc/options-page-wrapper.php:208
+msgid "The Background Color of the Send Button. Default value = #4CAF50."
+msgstr "Die Hintergrundfarbe des Abschicken-Buttons. Standardwert = #4Caf50."
+
+#: inc/options-page-wrapper.php:183
+msgid "The Color of the Frontend Text. Default value = #333333."
+msgstr "Die Farbe des Frontend-Textes. Standardwert = #333333."
+
+#: inc/options-page-wrapper.php:159
+msgid "The Frontend-Text for the Captcha Field"
+msgstr "Der Frontend-Text für das Captcha-Feld"
+
+#: inc/options-page-wrapper.php:139
+msgid "The Frontend-Text for the Email Field"
+msgstr "Der Frontend-Text für das E-Mail-Feld"
+
+#: inc/options-page-wrapper.php:144
+msgid "The Frontend-Text for the Message Field"
+msgstr "Der Frontend-Text für das Nachrichtenfeld"
+
+#: inc/options-page-wrapper.php:119
+msgid "The Frontend-Text for the Name Field"
+msgstr "Der Frontend-Text für das Namensfeld"
+
+#: inc/options-page-wrapper.php:129
+msgid "The Frontend-Text for the Phone Field"
+msgstr "Der Frontend-Text für das Telefonfeld"
+
+#: inc/options-page-wrapper.php:164
+msgid "The Frontend-Text for the Send Button"
+msgstr "Der Frontend-Text für den Senden-Button"
+
+#: inc/options-page-wrapper.php:169
+msgid "The success message if a message has been successfully sent."
+msgstr "Die Erfolgsmeldung, wenn eine Nachricht erfolgreich gesendet wurde."
+
+#: hnp-simple-contactform.php:461
+#, php-format
+msgid "This Email was sent from the Contactform on %s"
+msgstr "Diese E-Mail wurde vom Kontaktformular auf %s gesendet."
+
+#: inc/options-page-wrapper.php:238
+msgid ""
+"This option generates a small \"Powered by\" text below the form. By "
+"enabling this option, you support us by increasing our reach, which allows "
+"us to continue working on plugins."
+msgstr ""
+"Diese Option generiert einen kleinen „Powered by“-Text unterhalb des "
+"Formulars. Durch die Aktivierung dieser Option unterstützen Sie uns durch "
+"die Erhöhung unserer Reichweite, die es uns ermöglicht, weiterhin an Plugins "
+"zu arbeiten."
+
+#: inc/options-page-wrapper.php:243 inc/options-page-wrapper.php:270
+msgid "Update/Save"
+msgstr "Aktualisieren/Speichern"
+
+#: inc/options-page-wrapper.php:105
+msgid "Use Defer mode?"
+msgstr "Nutze Defer Modus?"
+
+#: inc/options-page-wrapper.php:105
+msgid ""
+"When this function is enabled, the \"defer\" tag will be added to the "
+"frontend script, which prevents the script from blocking rendering. This "
+"function should be tested after activation."
+msgstr ""
+"Wenn diese Funktion aktiviert ist, wird dem Frontend-Skript das Tag „defer“ "
+"hinzugefügt, das verhindert, dass das Skript das Rendern blockiert. Diese "
+"Funktion sollte nach der Aktivierung getestet werden."
+
+#: inc/contactform-template-1.php:52
+msgid "WordPress Webdesign"
+msgstr "Wordpress Webdesign"
+
+#: inc/options-page-wrapper.php:219
+msgid "www.image.com/image.jpg"
+msgstr "Www.Image.Com/Image.Jpg"
+
+#: hnp-simple-contactform.php:53
+msgid "You do not have enough permission to view this page"
+msgstr "Sie haben nicht genügend Berechtigung, diese Seite zu sehen"
+
+#: inc/options-page-wrapper.php:259
+msgid "Your Licence Key."
+msgstr "Ihr Lizenzcode"
