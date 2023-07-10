@@ -1,4 +1,4 @@
-# hnp-simple-contactform
+# hnp-simple-contactform for wordpress
 hnp-simple-contactform
 
 
